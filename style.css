@@ -1,3 +1,47 @@
-body {
+body{
+  background-color: #A0C1B9;
+}
+h1{
+  font-size:400%;
+  letter-spacing:1px;
+  color: #F5F5DC;
+  text-decoration-color: white;
+  font-family: "Courier";
+}
+p{
+  font-size: 200%;
+  color: #F5F5DC;
+  font-family: "Courier";
+  
+}
+img{
+  width: 500px;
+  border-style: groove;
+  border-color: #F5F5DC;
+}
+iframe{
+  
+}
+ul{
+  test-align: center;
+  list-style-type: none;
+  position: fixed;
+}
+li{
+  float: left
+}
+li a{
+  padding: 20px;
+  color: #F5F5DC;
+  text-decoration: none;
+  font-family: "Courier";
+}
+li a:hover{
+  background-color: beige;
+  color:#6F432A;
+  transition: 1.5s;
 
 }
+
+ 
+
