@@ -10,9 +10,29 @@ h1{
 
 }
 p{
-  font-size: 60%;
+  font-size: 50%;
   color: #F5F5DC;
   font-family: "Courier";
   
+}
+ul{
+  test-align: center;
+  list-style-type: none;
+  position: fixed;
+}
+li{
+  float: left
+}
+li a{
+  padding: 20px;
+  color: #F5F5DC;
+  text-decoration: none;
+  font-family: "Courier";
+}
+li a:hover{
+  background-color: beige;
+  color:#6F432A;
+  transition: 1.5s;
+
 }
 
